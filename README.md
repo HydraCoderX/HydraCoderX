@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bsc_hydra" target="blank"><img src="https://img.shields.io/twitter/follow/bsc_hydra?logo=twitter&style=for-the-badge" alt="bsc_hydra" /></a> </p>
 
-- 🔭 I’m currently working on **CashVerse**
+- 🔭 I’m currently working on **CashVerse** and **Crypt2Date**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
